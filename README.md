@@ -11,6 +11,7 @@ This Android fitness app leverages AI to provide personalized workout and nutrit
 - **User Groups**: Join or create fitness groups to participate in challenges, share progress, and stay motivated.
 - **Progress Calendar**: A built-in calendar allows users to visualize their fitness progress, workouts, steps, and hydration levels over time.
 - **Phone Notifications**: The app sends timely notifications to remind users about hydration, workouts, and nutrition throughout the day.
+- **Motivational Sentences**: Features motivational quotes on the home page that change periodically to inspire users.
 - **Data Sync**: All user data, including workouts, steps, nutrition, and hydration, is stored locally with Room and SQLite, and synced with the backend server for added functionality.
 
 ## Technologies Used
@@ -22,3 +23,4 @@ This Android fitness app leverages AI to provide personalized workout and nutrit
 - **REST APIs**: Enables communication between the app and the backend server for data synchronization and enhanced features.
 - **Calendar Integration**: Visual progress tracking with a built-in calendar.
 - **Notifications**: Regular reminders for hydration, workout sessions, and nutrition goals.
+- **Motivational Sentences**: Dynamic display of motivational quotes to keep users engaged and inspired.
