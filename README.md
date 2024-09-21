@@ -28,3 +28,4 @@ This Android fitness app leverages AI to provide personalized workout and nutrit
 ## Running the App
 
 To see the app in action, run it in Android Studio and use an Android device or emulator. This will allow you to interact with the app and test its features. Alternatively, you can connect your Android device using a USB cable and run the app directly on it.
+
