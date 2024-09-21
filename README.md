@@ -24,3 +24,7 @@ This Android fitness app leverages AI to provide personalized workout and nutrit
 - **Calendar Integration**: Visual progress tracking with a built-in calendar.
 - **Notifications**: Regular reminders for hydration, workout sessions, and nutrition goals.
 - **Motivational Sentences**: Dynamic display of motivational quotes to keep users engaged and inspired.
+
+## Running the App
+
+To see the app in action, run it in Android Studio and use an Android device or emulator. This will allow you to interact with the app and test its features. Alternatively, you can connect your Android device using a USB cable and run the app directly on it.
